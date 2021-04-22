@@ -1,5 +1,7 @@
 # Hello World! 🚀 I'm Yinka.
 
+![banner that says yinka adedire - frontend developer interested in jamstack](./header-image.png)
+
 I'm a self-taught frontend developer interested in jamstack.
 
 I like beautiful designs, intuitive UX and minimalism.
