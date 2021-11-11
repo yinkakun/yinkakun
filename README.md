@@ -12,10 +12,8 @@ You can email me at <yinkakun@gmail.com> or send me a dm on [twitter](https://tw
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   32 hrs 49 mins  █████████████████████▒░░░   85.37 % 
-CSS          3 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JavaScript   1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Bash         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-XML          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+JavaScript   11 hrs 51 mins  ███████████████████░░░░░░   76.28 % 
+TypeScript   3 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.83 % 
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 <!--END_SECTION:waka-->
