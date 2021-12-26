@@ -12,7 +12,7 @@ You can email me at <yinkakun@gmail.com> or send me a dm on [twitter](https://tw
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
+Week: 19 December, 2021 - 25 December, 2021
 
 TypeScript   20 hrs 41 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.00 % 
 JavaScript   14 hrs 36 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.42 % 
