@@ -1,4 +1,4 @@
-You can visit my portfolio website <https://yinkakun.vercel.app>
+You can visit my portfolio website <https://yinka.codes>
 
 You can email me at <yinkakun@gmail.com> or send me a dm on [twitter](https://twitter.com/yinkakun).
 
