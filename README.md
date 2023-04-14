@@ -5,10 +5,10 @@ You can email me at <yinkakun@gmail.com>
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2023 - To: 12 April 2023
+From: 06 April 2023 - To: 13 April 2023
 
-TypeScript   27 hrs 51 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.69 %
-Other        4 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.27 %
+TypeScript   30 hrs 38 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.70 %
+Other        4 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.25 %
 ```
 
 <!--END_SECTION:waka-->
