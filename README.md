@@ -1,5 +1,3 @@
-You can visit my portfolio website <https://yinka.codes>
-
 You can email me at <yinkakun@gmail.com>
 
 <!--START_SECTION:waka-->
